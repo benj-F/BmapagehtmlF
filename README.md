@@ -1,6 +1,6 @@
 # BmapagehtmlF
 
 ------------------------
-ceci est un texte
-on espere que ca va marcher
-ceci est une page **HTML** sans **CCS**
+1.ceci est un texte
+2.on espere que ca va marcher
+3.ceci est une page **HTML** sans **CCS**
